@@ -40,6 +40,14 @@ This single-page project showcases a collection of curated images with stylish *
 🌐 [View Live Website](https://nivetha0411.github.io/Image-gallery/)
 
 ---
+---
+
+## 🙋‍♀️ Author
+
+Made with 💜 by **Nivetha**  
+🔗 [GitHub Profile](https://github.com/nivetha0411)
+
+---
 
 ## 📂 Project Structure
 
