@@ -17,9 +17,8 @@ This single-page project showcases a collection of curated images with stylish *
 
 ## 📸 Screenshot
 
-![Image Gallery Screenshot](screenshot.png)
+![Image Gallery Screenshot](image gallery_preview.jpg)
 
-> You can replace `screenshot.png` with your actual image file in the repo.
 
 ---
 
