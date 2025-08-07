@@ -37,7 +37,7 @@ This single-page project showcases a collection of curated images with stylish *
 
 ## 🚀 GitHub Pages Link
 
-🌐 [View Live Website](nivetha0411/Image-gallery)
+🌐 [View Live Website](https://nivetha0411.github.io/Image-gallery/)
 
 ---
 
