@@ -15,7 +15,7 @@ This single-page project showcases a collection of curated images with stylish *
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 ![Image Gallery Screenshot](image_gallery_preview.jpg)
 
@@ -37,7 +37,7 @@ This single-page project showcases a collection of curated images with stylish *
 
 ## 🚀 GitHub Pages Link
 
-🌐 [View Live Website](https://nivetha0411.github.io/image-gallery/)
+🌐 [View Live Website]( )
 
 ---
 
