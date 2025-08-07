@@ -17,7 +17,7 @@ This single-page project showcases a collection of curated images with stylish *
 
 ## 📸 Screenshot
 
-![Image Gallery Screenshot](image gallery_preview.jpg)
+![Image Gallery Screenshot](image_gallery_preview.jpg)
 
 
 ---
